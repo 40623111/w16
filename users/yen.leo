@@ -55,7 +55,7 @@
 <v t="leo.20171116213458.1"><vh>目錄</vh>
 <v t="leo.20171116213527.1"><vh>目錄</vh></v>
 </v>
-<v t="yen.20170108171733.16"><vh>W1-W3</vh>
+<v t="yen.20170108171733.16" a="E"><vh>W1-W3</vh>
 <v t="leo.20171105235423.1" a="E"><vh>上課大綱</vh>
 <v t="leo.20171105235557.1"><vh>內容</vh></v>
 </v>
@@ -69,34 +69,63 @@
 <v t="leo.20171105235702.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20171105234310.1"><vh>W4-W6</vh>
-<v t="leo.20171105234726.1"><vh>上課大綱</vh>
+<v t="leo.20171105234310.1" a="E"><vh>W4-W6</vh>
+<v t="leo.20171105234726.1" a="E"><vh>上課大綱</vh>
 <v t="leo.20171106000139.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20171106220900.1"><vh>如何新增網誌</vh>
+<v t="leo.20171106220900.1" a="E"><vh>如何新增網誌</vh>
 <v t="leo.20171106220948.1"><vh>新增網誌</vh></v>
 </v>
-<v t="leo.20171105234724.1"><vh>Python3 程式語法練習</vh>
+<v t="leo.20171105234724.1" a="E"><vh>Python3 程式語法練習</vh>
 <v t="leo.20171106000141.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20171105234720.1"><vh>eric6的介面</vh>
 <v t="leo.20171106000146.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20171105234239.1"><vh>W7-W9</vh>
-<v t="leo.20171106000314.1"><vh>上課大綱</vh>
+<v t="leo.20171105234239.1" a="E"><vh>W7-W9</vh>
+<v t="leo.20171106000314.1" a="E"><vh>上課大綱</vh>
 <v t="leo.20171106000416.1"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20180104090955.1" a="E"><vh>W10-W12</vh>
-<v t="leo.20180104091137.1" a="E"><vh>上課大綱</vh>
+<v t="leo.20180104091137.1"><vh>上課大綱</vh>
 <v t="leo.20180104091235.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180109212947.1"><vh>123</vh>
+<v t="leo.20180109213002.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180109213252.1"><vh>123</vh>
+<v t="leo.20180109213303.1"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20180104091028.1"><vh>W13-W15</vh>
-<v t="leo.20180104091221.1" a="E"><vh>上課大綱</vh>
+<v t="leo.20180104091221.1"><vh>上課大綱</vh>
 <v t="leo.20180104091243.1"><vh>內容</vh></v>
 </v>
+<v t="leo.20180109213501.1"><vh>123</vh>
+<v t="leo.20180109213536.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180109213710.1"><vh>123</vh>
+<v t="leo.20180109213744.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180109213842.1" a="E"><vh>W16-18</vh>
+<v t="leo.20180109213923.1"><vh>123</vh>
+<v t="leo.20180109213944.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180109214059.1" a="E"><vh>123</vh>
+<v t="leo.20180109214102.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180109214056.1"><vh>123</vh>
+<v t="leo.20180109214105.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180109214235.1"><vh>123</vh>
+<v t="leo.20180109214244.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180109214445.1"><vh>期末心得</vh>
+<v t="leo.20180109214506.1"><vh>123</vh></v>
 </v>
 <v t="leo.20171116094019.1"><vh>筆記本</vh>
 <v t="leo.20171116094048.1"><vh>筆記本</vh>
@@ -711,8 +740,94 @@ arr(20,"☆","★")
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180104091235.1"></t>
-<t tx="leo.20180104091243.1"></t>
+<t tx="leo.20180104091235.1"> #W10-W12
+
+ * github 帳號
+* Qt Disign 數學運算邏輯概念
+* 綁定 git config --global user.name "學號 "
+* 綁定 git config --global user.name "email "
+* 綁定後至Y槽並拉至SciTE檢查</t>
+<t tx="leo.20180104091243.1">#W13-W15
+
+* 建立github協同倉儲
+* 新增 git add .
+* 新增版本 git commit -m " "
+* 以下是和fossil不同的
+* 改版內容資料利用git push推送
+* 將遠端內容轉至近端用 git pull</t>
+<t tx="leo.20180109212947.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109213002.1"> #在DOS上 GIT CONFIG 綁定自己的學號跟信箱</t>
+<t tx="leo.20180109213252.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109213303.1"> #在SCITE 上檢查綁定內容
+ 
+ &lt;img src="https://cpa.kmol.info/40623111/raw/daf16903a7109aed43aba6ab7e73a34461a626f571dba060229dc336c2863993?m=image/png" width="800" height="300"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180109213501.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109213536.1"> #GIT 基本操作方法
+ 
+ &lt;img src="https://cpa.kmol.info/40623111/raw/37fbc9a44ddc420c0547318b00c9d19ccb7d1315aaafbee0d32fae12cc287518?m=image/png" width="800" height="300"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180109213710.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109213744.1"> #建立GITHUB 協同倉儲，之後在上面推送資料
+ 
+ &lt;img src="https://cpa.kmol.info/40623111/raw/451b12260f975d44421e4181af768163cf8e413100fbbd85b6533d922436ab66?m=image/png" width="800" height="300"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180109213842.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20180109213923.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109213944.1"> #W16-W18
+
+*透過分組來做出計算機程式
+*分組期末報告
+*將影片放入 youtube</t>
+<t tx="leo.20180109214056.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109214059.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109214102.1">#計算機按鍵定義
+
+&lt;img src="https://cpa.kmol.info/40623111/raw/867d4e9dc2b908f2f335609d24b577e033783301198146de04eafc99caf53ba4?m=image/png" width="800" height="300"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180109214105.1">#計算機成品及功能
+
+&lt;img src="https://cpa.kmol.info/40623111/raw/3ada18e8a254ca291fa665493e484e3610c4213d1b8655a6db8cda973933e10c?m=image/png" width="800" height="300"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180109214235.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109214244.1">#自評成績:75分</t>
+<t tx="leo.20180109214445.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109214506.1">#心得:
+
+當初第一次上這門課時，懵懵懂懂的我甚麼都不會，我的吸收能力又這麼差，老師上的內容我都聽不太懂，所以我都要回去看老師po的影片複習以及請教同學如何操作，慢慢的就跟上了大家的腳步，甚至是可以教導同學以及訂正錯誤，我會將我現在所學的這些加以運用在未來的工作上，並且更加精進、練習，感謝老師及同學這學期的努力教導。</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
